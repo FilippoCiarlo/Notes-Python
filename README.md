@@ -30,3 +30,30 @@
     3. **<code>assert</code>**
     4. **<code>raise</code>**
 7. #### **Esercizi**
+
+8. #### **Context Manager**
+9. #### **Moduli**
+    1. **Metodi - Funzioni**
+10. #### **Strutture Dati**
+    1. **Liste**
+        1. Slicing
+        2. Metodi per le Liste
+            1. <code>.append()</code>
+            2. <code>.count()</code>
+            3. <code>.index()</code>
+            4. <code>.insert()</code>
+            5. <code>.len()</code>
+            6. <code>.pop()</code>
+    2. **Tuple**
+    3. **Set**
+        1. Metodi per i Set
+            1. <code>.add()</code>
+            2. <code>.remove()</code>
+            3. <code>.discard()</code>
+            4. Altri metodi
+    4. **Dizionari**
+        1. Inserimento
+        2. Cancellazione
+        4. <code>.fromkeys()</code>
+        5. <code>.setdefault()</code>
+11. #### **Copia**
