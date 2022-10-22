@@ -57,3 +57,21 @@
         4. <code>.fromkeys()</code>
         5. <code>.setdefault()</code>
 11. #### **Copia**
+12. #### **Generatori**
+    1. **Generator Expression**
+13. #### **Syntax Comprehension**
+    1. **Lista**
+    2. **Tupla**
+    3. **Set**
+    4. **Dizionario**
+    5. **Conditional Statement**
+        1. Condizione Singola
+        2. Condizione Multipla
+14. #### **Unicode**
+    1. **Unicode**
+    2. **Stringhe**
+        1. <code>.encode()</code>
+        2. <code>.decode()</code>
+15. #### **Classi**
+    1. **Ereditarietà**
+    2. **Ereditarietà Multipla**
